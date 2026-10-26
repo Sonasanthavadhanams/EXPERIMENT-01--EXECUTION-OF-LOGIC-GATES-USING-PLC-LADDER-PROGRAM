@@ -1,11 +1,11 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
- # DATE 
+ # NAME :SONA S
+ # REGISTER NUMBER :212224110049
+ # DEPARTMENT : CSE (IOT)
+ # YEAR : III
+ # DATE : 26.10.2026
 
  
 # Aim:
@@ -26,30 +26,37 @@ Logic gates are the fundamental building blocks of digital circuits, and they pr
 
 # Basic Logic Gates:
 AND Gate:
+<img width="327" height="250" alt="image" src="https://github.com/user-attachments/assets/988077d1-2d21-4efd-93b0-8f3d314ab942" />
+
 
 Function: Outputs HIGH only when all inputs are HIGH.
 Ladder Logic: Represented by two or more normally open contacts in series.
 OR Gate:
+<img width="324" height="254" alt="image" src="https://github.com/user-attachments/assets/f8d531db-d8c2-4a0e-a0a7-c858a3d4f137" />
 
 Function: Outputs HIGH when at least one input is HIGH.
 Ladder Logic: Represented by two or more normally open contacts in parallel.
 NOT Gate:
+<img width="214" height="159" alt="image" src="https://github.com/user-attachments/assets/1e2a1fee-bd90-41bb-835d-3f798594cf1e" />
 
 Function: Outputs the inverse of the input signal.
 Ladder Logic: Represented by a normally closed contact.
 NAND Gate:
+<img width="333" height="250" alt="image" src="https://github.com/user-attachments/assets/65c060a7-dae4-42ab-96e5-515f193ec8db" />
 
 Function: Outputs LOW only when all inputs are HIGH.
 Ladder Logic: An AND gate followed by a NOT gate.
 NOR Gate:
+<img width="330" height="249" alt="image" src="https://github.com/user-attachments/assets/4d71cb38-0757-43d7-8f4c-b3cd83d028be" />
 
 Function: Outputs LOW when at least one input is HIGH.
 Ladder Logic: An OR gate followed by a NOT gate.
 XOR Gate:
+<img width="326" height="248" alt="image" src="https://github.com/user-attachments/assets/e6577c2f-8038-4cb8-a8ab-1e1c9b14f0ac" />
 
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
-# Truth Tables:
+
  
 # Procedure:
 Setup the PLC Programming Environment:
@@ -80,6 +87,11 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 # SIMULATION RESULTS 
+
+
+
+
+
 
 
 #Results:
