@@ -1,4 +1,4 @@
-# EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
+ ## EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
  # NAME :SONA S
@@ -87,6 +87,17 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 # SIMULATION RESULTS 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/11fddb89-0c38-42fd-aaf8-d41e35a12edb" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5ecf5f6f-366c-47e8-82cb-651bc4370f3e" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/779cfec4-64a1-433a-8dfd-a0f2d98c2646" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5b55da21-f1ec-44b5-8416-82f2e6f0662b" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ef296a22-562f-44fc-9884-18693d18e1e9" />
+
 
 
 
